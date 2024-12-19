@@ -19,7 +19,7 @@ A Python script that searches for specific IDs/strings within a PDF file by comp
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/krystallix/Find-text-on-PDF.git
 ```
 
 2. Install required dependencies:
