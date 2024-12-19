@@ -33,7 +33,7 @@ pip install PyPDF2
 2. Place your JSON data file in the `source` directory as `data.json`
 3. Run the script:
 ```bash
-python pdf_id_finder.py
+python main.py
 ```
 
 ### JSON Data Format
@@ -84,7 +84,7 @@ The script will print all IDs that were not found in the PDF file. The output fo
 ├── source/
 │   ├── source.pdf
 │   └── data.json
-└── pdf_id_finder.py
+└── main.py
 ```
 
 ## Limitations
