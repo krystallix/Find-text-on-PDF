@@ -1,4 +1,4 @@
-# PDF ID Finder
+# Find Text on PDF
 
 A Python script that searches for specific IDs/strings within a PDF file by comparing them against a JSON data source. The script identifies which IDs from the JSON file are present in the PDF document and which ones are missing.
 
